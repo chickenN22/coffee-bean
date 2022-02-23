@@ -30,7 +30,7 @@
  }
  /* header section 1 */
  .nav{
-     border: 4px solid red;
+     /* border: 4px solid red; */
      width: 85%;
      margin: 1em auto;
      overflow: auto;
@@ -64,7 +64,7 @@
  /* banner section 2 */
  
  .banner{
-     border: 4px solid red;
+     /* border: 4px solid red; */
      height: 670px;
      background-image: url(../images/banner-bg.jpg);
      background-repeat: no-repeat;
@@ -104,7 +104,7 @@
 
  /* ads-1 section 3 */
  .ads{
-     border: 4px solid red;
+     /* border: 4px solid red; */
      width: 85%;
      margin: 4em auto;
      overflow: auto;
@@ -156,7 +156,7 @@
 
  /* merchandise section 4*/
 .merch{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
 }
@@ -207,7 +207,7 @@
  }
  /* discount section 5 */
  .discount{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     height: 350px;
     margin: 4em auto;
@@ -229,7 +229,7 @@
      transform: translate(-50%,-50%);
  }
  .discount-text span{
-     border: 2px dashed green;
+     /* border: 2px dashed green; */
      font-family: 'Raleway', sans-serif;
      color: #ffffff;
      font-weight: 500;
@@ -286,7 +286,7 @@
 }
 /* reservation section 8 */
 .reservation{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
 }
@@ -339,7 +339,7 @@ form input,form textarea,form select{
 .form-group h3::after{
     content: "";
     display: block;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 30px;
     width: 150px;
     margin: auto;
@@ -356,7 +356,7 @@ form #submit{
 /* footer section 9 */
 
 .footer{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     background-image: url(../images/footer-img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
